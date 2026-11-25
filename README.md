@@ -11,6 +11,7 @@ Gói lõi gồm phần mềm mã nguồn mở, mỗi phần giữ giấy phép r
 - **PyTorch, faster-whisper, CTranslate2, edge-tts** và các thư viện Python khác — giấy phép kèm trong
   `pyvideotrans/.venv/Lib/site-packages/<thư viện>.dist-info`.
 - **FFmpeg** (bản build của gyan.dev) — https://ffmpeg.org — GPL-3.0.
+- **Kokoro** (giọng đọc có sẵn) — thư viện kokoro-onnx (MIT, https://github.com/thewh1teagle/kokoro-onnx), mô hình Kokoro-82M (Apache-2.0, https://huggingface.co/hexgrad/Kokoro-82M).
 - **uv** — https://github.com/astral-sh/uv — Apache-2.0 / MIT.
 
 Gói không chứa key, tài khoản hay dữ liệu cá nhân nào.
